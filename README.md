@@ -1,6 +1,6 @@
 # API
 # Consumo de la API de The Movie DB:
-* Películas populares actualizadas diariamente automaticamente
+* Películas populares actualizadas diariamente automaticamente <br>
 #CONTENIDO:
 * Póster de la película
 * Título de la película 
