@@ -5,7 +5,7 @@ Proyecto consumo API
 * Póster de la película
 * Título de la película 
 
-# equipo (proyecto individual :
+# Proyecto individual :
 * Bea Mendes
 
 # HTML-CSS-JS
